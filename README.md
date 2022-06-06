@@ -5,9 +5,10 @@
 
 - [@brittanyremus](https://www.github.com/bremus124)
 --
-## Screenshot
+## Screenshots
 
 ![App Screenshot](./screenshothorisean.png)
+![App Screenshot](./screenshotcolorcontrast.png)
 --
 ## Deployment
 
