@@ -1,27 +1,19 @@
 # Accessibility-challenge
-description, screenshot, and link to deployed application.
 
-Revised codebase that follows accessibility standards so that
+Revisision of codebase that follows accessibility standards so that
 the website is optimized for search engines for a marketing agency
-
-
-
-
-
-## Authors
+--
+## Author
 
 - [@brittanyremus](https://www.github.com/bremus124)
-
-
+--
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
+![App Screenshot](./screenshothorisean.png)
+--
 ## Deployment
 
 To deploy this project run
 
-```bash
-  npm run deploy
-```
+Website:https://bremus124.github.io/Challenge1/
+Repository: https://github.com/bremus124/Challenge1
