@@ -5,9 +5,9 @@
 
 - [@brittanyremus](https://www.github.com/bremus124)
 --
-## Screenshots
+## Screenshot
 
-!![Screenshot](screenshothorisean.png)
+![Screenshot](screenshothorisean.png)
 --
 ## Deployment
 
