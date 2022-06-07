@@ -7,8 +7,7 @@
 --
 ## Screenshots
 
-![App Screenshot](./screenshothorisean.png)
-![App Screenshot](./screenshotcolorcontrast.png)
+!![Screenshot](screenshothorisean.png)
 --
 ## Deployment
 
